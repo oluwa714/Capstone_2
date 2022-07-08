@@ -1,0 +1,631 @@
+,State Abbreviation,State Name,Site Type,Site Name
+1,AL,Alabama,National Monument,Birmingham Civil Rights
+2,AL,Alabama,National Monument,Freedom Riders
+3,AL,Alabama,National Military Park,Horseshoe Bend
+4,AL,Alabama,National Preserve,Little River Canyon
+5,AL,Alabama,Parkway,Natchez Trace
+6,AL,Alabama,National Scenic Trail,Natchez Trace
+7,AL,Alabama,National Monument,Russell Cave
+8,AL,Alabama,National Historic Trail,Selma To Montgomery
+9,AL,Alabama,National Historic Trail,Trail Of Tears
+10,AL,Alabama,National Historic Site,Tuskegee Airmen
+11,AL,Alabama,National Historic Site,Tuskegee Institute
+12,AK,Alaska,Wild River,Alagnak
+13,AK,Alaska,,Alaska Public Lands
+14,AK,Alaska,National Historic Area,Aleutian Islands World War II
+15,AK,Alaska,National Monument & Preserve,Aniakchak
+16,AK,Alaska,National Preserve,Bering Land Bridge
+17,AK,Alaska,National Monument,Cape Krusenstern
+18,AK,Alaska,National Park & Preserve,Denali
+19,AK,Alaska,National Park & Preserve,Gates Of The Arctic
+20,AK,Alaska,National Park & Preserve,Glacier Bay
+21,AK,Alaska,,Iñupiat Heritage Center
+22,AK,Alaska,National Park & Preserve,Katmai
+23,AK,Alaska,National Park,Kenai Fjords
+24,AK,Alaska,National Historical Park,Klondike Gold Rush
+25,AK,Alaska,National Park,Kobuk Valley
+26,AK,Alaska,National Park & Preserve,Lake Clark
+27,AK,Alaska,National Preserve,Noatak
+28,AK,Alaska,National Historical Park,Sitka
+29,AK,Alaska,National Park & Preserve,Wrangell - St Elias
+30,AK,Alaska,National Preserve,Yukon - Charley Rivers
+31,AS,American Samoa,,National Park of American Samoa
+32,AZ,Arizona,National Monument,Canyon de Chelly
+33,AZ,Arizona,National Monument,Casa Grande Ruins
+34,AZ,Arizona,National Monument,Chiricahua
+35,AZ,Arizona,National Memorial,Coronado
+36,AZ,Arizona,National Historic Site,Fort Bowie
+37,AZ,Arizona,National Recreation Area,Glen Canyon
+38,AZ,Arizona,National Park,Grand Canyon
+39,AZ,Arizona,National Monument,Grand Canyon-Parashant
+40,AZ,Arizona,National Historic Site,Hubbell Trading Post
+41,AZ,Arizona,National Historic Trail,Juan Bautista de Anza
+42,AZ,Arizona,National Recreation Area,Lake Mead
+43,AZ,Arizona,National Monument,Montezuma Castle
+44,AZ,Arizona,National Monument,Navajo
+45,AZ,Arizona,National Historic Trail,Old Spanish
+46,AZ,Arizona,National Monument,Organ Pipe Cactus
+47,AZ,Arizona,National Park,Petrified Forest
+48,AZ,Arizona,National Monument,Pipe Spring
+49,AZ,Arizona,National Park,Saguaro
+50,AZ,Arizona,National Monument,Sunset Crater Volcano
+51,AZ,Arizona,National Monument,Tonto
+52,AZ,Arizona,National Historical Park,Tumacácori
+53,AZ,Arizona,National Monument,Tuzigoot
+54,AZ,Arizona,National Monument,Walnut Canyon
+55,AZ,Arizona,National Monument,Wupatki
+56,AR,Arkansas,National Memorial,Arkansas Post
+57,AR,Arkansas,National River,Buffalo
+58,AR,Arkansas,National Historic Site,Fort Smith
+59,AR,Arkansas,National Park,Hot Springs
+60,AR,Arkansas,National Historic Site,Little Rock Central High School
+61,AR,Arkansas,National Military Park,Pea Ridge
+62,AR,Arkansas,National Historic Site,President William Jefferson Clinton Birthplace Home
+63,AR,Arkansas,National Historic Trail,Trail Of Tears
+64,CA,California,,Alcatraz Island
+65,CA,California,National Monument,Cabrillo
+66,CA,California,National Historic Trail,California
+67,CA,California,National Monument,Castle Mountains
+68,CA,California,National Monument,César E. Chávez
+69,CA,California,National Park,Channel Islands
+70,CA,California,National Park,Death Valley
+71,CA,California,National Monument,Devils Postpile
+72,CA,California,National Historic Site,Eugene O'Neill
+73,CA,California,National Historic Site,Fort Point
+74,CA,California,National Recreation Area,Golden Gate
+75,CA,California,National Historic Site,John Muir
+76,CA,California,National Park,Joshua Tree
+77,CA,California,National Historic Trail,Juan Bautista de Anza
+78,CA,California,National Park,Lassen Volcanic
+79,CA,California,National Monument,Lava Beds
+80,CA,California,National Historic Site,Manzanar
+81,CA,California,National Preserve,Mojave
+82,CA,California,National Monument,Muir Woods
+83,CA,California,National Historic Trail,Old Spanish
+84,CA,California,National Park,Pinnacles
+85,CA,California,National Seashore,Point Reyes
+86,CA,California,National Historic Trail,Pony Express
+87,CA,California,National Memorial,Port Chicago Naval Magazine
+88,CA,California,,Presidio of San Francisco
+89,CA,California,National and State Parks,Redwood
+90,CA,California,National Historical Park,Rosie the Riveter WWII Home Front
+91,CA,California,National Historical Park,San Francisco Maritime
+92,CA,California,National Recreation Area,Santa Monica Mountains
+93,CA,California,National Parks,Sequoia & Kings Canyon
+94,CA,California,National Monument,Tule Lake
+95,CA,California,National Recreation Area,Whiskeytown
+96,CA,California,National Park,Yosemite
+97,CO,Colorado,National Historic Site,Bent's Old Fort
+98,CO,Colorado,National Park,Black Canyon Of The Gunnison
+99,CO,Colorado,National Historic Trail,California
+100,CO,Colorado,National Monument,Colorado
+101,CO,Colorado,National Recreation Area,Curecanti
+102,CO,Colorado,National Monument,Dinosaur
+103,CO,Colorado,National Monument,Florissant Fossil Beds
+104,CO,Colorado,National Park & Preserve,Great Sand Dunes
+105,CO,Colorado,National Monument,Hovenweep
+106,CO,Colorado,National Park,Mesa Verde
+107,CO,Colorado,National Historic Trail,Old Spanish
+108,CO,Colorado,National Historic Trail,Pony Express
+109,CO,Colorado,National Park,Rocky Mountain
+110,CO,Colorado,National Historic Site,Sand Creek Massacre
+111,CO,Colorado,National Historic Trail,Santa Fe
+112,CO,Colorado,National Monument,Yucca House
+113,CT,Connecticut,National Scenic Trail,Appalachian
+114,CT,Connecticut,National Historical Park,Coltsville
+115,CT,Connecticut,National Scenic Trail,New England
+116,CT,Connecticut,National Historic Trail,Washington-Rochambeau Revolutionary Route
+117,CT,Connecticut,National Historical Park,Weir Farm
+118,DE,Delaware,National Historic Trail,Captain John Smith Chesapeake
+119,DE,Delaware,,Chesapeake Bay
+120,DE,Delaware,National Historical Park,First State
+121,DE,Delaware,National Historic Trail,Washington-Rochambeau Revolutionary Route
+122,DC,District of Columbia,,African American Civil War Memorial
+123,DC,District of Columbia,Park,Anacostia
+124,DC,District of Columbia,National Monument,Belmont-Paul Women's Equality
+125,DC,District of Columbia,,Capitol Hill Parks
+126,DC,District of Columbia,National Historic Trail,Captain John Smith Chesapeake
+127,DC,District of Columbia,National Historic Site,Carter G. Woodson Home
+128,DC,District of Columbia,National Historical Park,Chesapeake & Ohio Canal
+129,DC,District of Columbia,,Chesapeake Bay
+130,DC,District of Columbia,,Civil War Defenses of Washington
+131,DC,District of Columbia,,Constitution Gardens
+132,DC,District of Columbia,Memorial,Dwight D. Eisenhower
+133,DC,District of Columbia,,Ford's Theatre
+134,DC,District of Columbia,,Fort Dupont Park
+135,DC,District of Columbia,,Franklin Delano Roosevelt Memorial
+136,DC,District of Columbia,National Historic Site,Frederick Douglass
+137,DC,District of Columbia,Memorial Parkway,George Washington
+138,DC,District of Columbia,,Kenilworth Park & Aquatic Gardens
+139,DC,District of Columbia,,Korean War Veterans Memorial
+140,DC,District of Columbia,,LBJ Memorial Grove on the Potomac
+141,DC,District of Columbia,,Lincoln Memorial
+142,DC,District of Columbia,,"Martin Luther King, Jr. Memorial"
+143,DC,District of Columbia,"National Historic Site",Mary McLeod Bethune Council House
+144,DC,District of Columbia,,National Capital Parks-East
+145,DC,District of Columbia,,National Mall and Memorial Parks
+146,DC,District of Columbia,,Pennsylvania Avenue
+147,DC,District of Columbia,National Scenic Trail,Potomac Heritage
+148,DC,District of Columbia,,President's Park (White House)
+149,DC,District of Columbia,Park,Rock Creek
+150,DC,District of Columbia,National Historic Trail,Star-Spangled Banner
+151,DC,District of Columbia,,Theodore Roosevelt Island
+152,DC,District of Columbia,,Thomas Jefferson Memorial
+153,DC,District of Columbia,Memorial,Vietnam Veterans
+154,DC,District of Columbia,,Washington Monument
+155,DC,District of Columbia,National Historic Trail,Washington-Rochambeau Revolutionary Route
+156,DC,District of Columbia,,World War I Memorial
+157,DC,District of Columbia,,World War II Memorial
+158,FL,Florida,National Preserve,Big Cypress
+159,FL,Florida,National Park,Biscayne
+160,FL,Florida,National Seashore,Canaveral
+161,FL,Florida,National Monument,Castillo de San Marcos
+162,FL,Florida,National Memorial,De Soto
+163,FL,Florida,National Park,Dry Tortugas
+164,FL,Florida,National Park,Everglades
+165,FL,Florida,National Memorial,Fort Caroline
+166,FL,Florida,National Monument,Fort Matanzas
+167,FL,Florida,National Seashore,Gulf Islands
+168,FL,Florida,Ecological & Historic Preserve,Timucuan
+169,GA,Georgia,National Historic Site,Andersonville
+170,GA,Georgia,National Scenic Trail,Appalachian
+171,GA,Georgia,National Recreation Area,Chattahoochee River
+172,GA,Georgia,National Military Park,Chickamauga & Chattanooga
+173,GA,Georgia,National Seashore,Cumberland Island
+174,GA,Georgia,National Monument,Fort Frederica
+175,GA,Georgia,National Monument,Fort Pulaski
+176,GA,Georgia,National Historical Park,Jimmy Carter
+177,GA,Georgia,National Battlefield Park,Kennesaw Mountain
+178,GA,Georgia,National Historical Park,"Martin Luther King, Jr."
+179,GA,Georgia,National Historical Park,Ocmulgee Mounds
+180,GA,Georgia,National Historic Trail,Trail Of Tears
+181,GU,Guam,National Historical Park,War In The Pacific
+182,HI,Hawaii,National Historic Trail,Ala Kahakai
+183,HI,Hawaii,National Park,Haleakalā
+184,HI,Hawaii,National Park,Hawaiʻi Volcanoes
+185,HI,Hawaii,National Historic Site,Hono'uli'uli
+186,HI,Hawaii,National Historical Park,Kalaupapa
+187,HI,Hawaii,National Historical Park,Kaloko-Honokōhau
+188,HI,Hawaii,National Memorial,Pearl Harbor
+189,HI,Hawaii,National Historical Park,Puʻuhonua o Hōnaunau
+190,HI,Hawaii,National Historic Site,Puʻukoholā Heiau
+191,ID,Idaho,National Historic Trail,California
+192,ID,Idaho,National Reserve,City Of Rocks
+193,ID,Idaho,National Monument & Preserve,Craters Of The Moon
+194,ID,Idaho,National Monument,Hagerman Fossil Beds
+195,ID,Idaho,National Geologic Trail,Ice Age Floods
+196,ID,Idaho,National Historic Trail,Lewis & Clark
+197,ID,Idaho,National Historic Site,Minidoka
+198,ID,Idaho,National Historical Park,Nez Perce
+199,ID,Idaho,National Historic Trail,Oregon
+200,ID,Idaho,National Park,Yellowstone
+201,IL,Illinois,National Historic Trail,Lewis & Clark
+202,IL,Illinois,National Historic Site,Lincoln Home
+203,IL,Illinois,National Historic Trail,Mormon Pioneer
+204,IL,Illinois,National Monument,Pullman
+205,IL,Illinois,National Historic Trail,Trail Of Tears
+206,IN,Indiana,National Historical Park,George Rogers Clark
+207,IN,Indiana,National Park,Indiana Dunes
+208,IN,Indiana,National Historic Trail,Lewis & Clark
+209,IN,Indiana,National Memorial,Lincoln Boyhood
+210,IA,Iowa,National Monument,Effigy Mounds
+211,IA,Iowa,National Historic Site,Herbert Hoover
+212,IA,Iowa,National Historic Trail,Lewis & Clark
+213,IA,Iowa,National Historic Trail,Mormon Pioneer
+214,KS,Kansas,National Historic Site,Brown v. Board of Education
+215,KS,Kansas,National Historic Trail,California
+216,KS,Kansas,National Historic Site,Fort Larned
+217,KS,Kansas,National Historic Site,Fort Scott
+218,KS,Kansas,National Historic Trail,Lewis & Clark
+219,KS,Kansas,National Historic Site,Nicodemus
+220,KS,Kansas,National Historic Trail,Oregon
+221,KS,Kansas,National Historic Trail,Pony Express
+222,KS,Kansas,National Historic Trail,Santa Fe
+223,KS,Kansas,National Preserve,Tallgrass Prairie
+224,KY,Kentucky,National Historical Park,Abraham Lincoln Birthplace
+225,KY,Kentucky,National River & Recreation Area,Big South Fork
+226,KY,Kentucky,National Monument,Camp Nelson
+227,KY,Kentucky,National Historical Park,Cumberland Gap
+228,KY,Kentucky,National Battlefield,Fort Donelson
+229,KY,Kentucky,National Historic Trail,Lewis & Clark
+230,KY,Kentucky,National Park,Mammoth Cave
+231,KY,Kentucky,National Monument,Mill Springs Battlefield
+232,KY,Kentucky,National Historic Trail,Trail Of Tears
+233,LA,Louisiana,National Historical Park,Cane River Creole
+234,LA,Louisiana,National Historic Trail,El Camino Real de los Tejas
+235,LA,Louisiana,National Historical Park and Preserve,Jean Lafitte
+236,LA,Louisiana,National Historical Park,New Orleans Jazz
+237,LA,Louisiana,National Monument,Poverty Point
+238,LA,Louisiana,National Military Park,Vicksburg
+239,ME,Maine,National Park,Acadia
+240,ME,Maine,National Scenic Trail,Appalachian
+241,ME,Maine,National Monument,Katahdin Woods and Waters
+242,ME,Maine,,Maine Acadian Culture
+243,ME,Maine,International Park,Roosevelt Campobello
+244,ME,Maine,International Historic Site,Saint Croix Island
+245,MD,Maryland,National Battlefield,Antietam
+246,MD,Maryland,National Scenic Trail,Appalachian
+247,MD,Maryland,National Seashore,Assateague Island
+248,MD,Maryland,Parkway,Baltimore-Washington
+249,MD,Maryland,National Historic Trail,Captain John Smith Chesapeake
+250,MD,Maryland,Park,Catoctin Mountain
+251,MD,Maryland,National Historical Park,Chesapeake & Ohio Canal
+252,MD,Maryland,,Chesapeake Bay
+253,MD,Maryland,,Civil War Defenses of Washington
+254,MD,Maryland,National Historic Site,Clara Barton
+255,MD,Maryland,Park,Fort Foote
+256,MD,Maryland,National Monument and Historic Shrine,Fort McHenry
+257,MD,Maryland,Park,Fort Washington
+258,MD,Maryland,Memorial Parkway,George Washington
+259,MD,Maryland,Park,Glen Echo
+260,MD,Maryland,Park,Greenbelt
+261,MD,Maryland,National Historic Site,Hampton
+262,MD,Maryland,,Harmony Hall
+263,MD,Maryland,National Historical Park,Harpers Ferry
+264,MD,Maryland,National Historical Park,Harriet Tubman Underground Railroad
+265,MD,Maryland,National Battlefield,Monocacy
+266,MD,Maryland,,Oxon Cove  Park & Oxon Hill Farm
+267,MD,Maryland,Park,Piscataway
+268,MD,Maryland,National Scenic Trail,Potomac Heritage
+269,MD,Maryland,National Historic Trail,Star-Spangled Banner
+270,MD,Maryland,National Historic Site,Thomas Stone
+271,MD,Maryland,National Historic Trail,Washington-Rochambeau Revolutionary Route
+272,MA,Massachusetts,National Historical Park,Adams
+273,MA,Massachusetts,National Scenic Trail,Appalachian
+274,MA,Massachusetts,National Historical Park,Blackstone River Valley
+275,MA,Massachusetts,National Historical Park,Boston
+276,MA,Massachusetts,National Historic Site,Boston African American
+277,MA,Massachusetts,National Recreation Area,Boston Harbor Islands
+278,MA,Massachusetts,National Seashore,Cape Cod
+279,MA,Massachusetts,National Historic Site,Frederick Law Olmsted
+280,MA,Massachusetts,National Historic Site,John Fitzgerald Kennedy
+281,MA,Massachusetts,National Historic Site,Longfellow House Washington's Headquarters
+282,MA,Massachusetts,National Historical Park,Lowell
+283,MA,Massachusetts,National Historical Park,Minute Man
+284,MA,Massachusetts,National Historical Park,New Bedford Whaling
+285,MA,Massachusetts,National Scenic Trail,New England
+286,MA,Massachusetts,National Historic Site,Salem Maritime
+287,MA,Massachusetts,National Historic Site,Saugus Iron Works
+288,MA,Massachusetts,National Historic Site,Springfield Armory
+289,MA,Massachusetts,National Historic Trail,Washington-Rochambeau Revolutionary Route
+290,MI,Michigan,National Park,Isle Royale
+291,MI,Michigan,National Historical Park,Keweenaw
+292,MI,Michigan,National Scenic Trail,North Country
+293,MI,Michigan,National Lakeshore,Pictured Rocks
+294,MI,Michigan,National Battlefield Park,River Raisin
+295,MI,Michigan,National Lakeshore,Sleeping Bear Dunes
+296,MN,Minnesota,National Monument,Grand Portage
+297,MN,Minnesota,National River and Recreation Area,Mississippi
+298,MN,Minnesota,National Scenic Trail,North Country
+299,MN,Minnesota,National Monument,Pipestone
+300,MN,Minnesota,National Scenic Riverway,Saint Croix
+301,MN,Minnesota,National Park,Voyageurs
+302,MS,Mississippi,National Battlefield Site,Brices Cross Roads
+303,MS,Mississippi,National Seashore,Gulf Islands
+304,MS,Mississippi,National Monument,Medgar and Myrlie Evers Home
+305,MS,Mississippi,National Historical Park,Natchez
+306,MS,Mississippi,Parkway,Natchez Trace
+307,MS,Mississippi,National Scenic Trail,Natchez Trace
+308,MS,Mississippi,National Military Park,Shiloh
+309,MS,Mississippi,National Battlefield,Tupelo
+310,MS,Mississippi,National Military Park,Vicksburg
+311,MO,Missouri,National Historic Trail,California
+312,MO,Missouri,National Park,Gateway Arch
+313,MO,Missouri,National Monument,George Washington Carver
+314,MO,Missouri,National Historic Site,Harry S Truman
+315,MO,Missouri,National Historic Trail,Lewis & Clark
+316,MO,Missouri,National Historic Trail,Oregon
+317,MO,Missouri,National Scenic Riverways,Ozark
+318,MO,Missouri,National Historic Trail,Pony Express
+319,MO,Missouri,National Historic Trail,Santa Fe
+320,MO,Missouri,National Historical Park,Ste. Geneviève
+321,MO,Missouri,National Historic Trail,Trail Of Tears
+322,MO,Missouri,National Historic Site,Ulysses S Grant
+323,MO,Missouri,National Battlefield,Wilson's Creek
+324,MT,Montana,National Battlefield,Big Hole
+325,MT,Montana,National Recreation Area,Bighorn Canyon
+326,MT,Montana,National Historic Site,Fort Union Trading Post
+327,MT,Montana,National Park,Glacier
+328,MT,Montana,National Historic Site,Grant-Kohrs Ranch
+329,MT,Montana,National Geologic Trail,Ice Age Floods
+330,MT,Montana,National Historic Trail,Lewis & Clark
+331,MT,Montana,National Monument,Little Bighorn Battlefield
+332,MT,Montana,National Historical Park,Nez Perce
+333,MT,Montana,National Park,Yellowstone
+334,NE,Nebraska,National Monument,Agate Fossil Beds
+335,NE,Nebraska,National Historic Trail,California
+336,NE,Nebraska,National Historical Park,Homestead
+337,NE,Nebraska,National Historic Trail,Lewis & Clark
+338,NE,Nebraska,National Recreational River,Missouri
+339,NE,Nebraska,National Historic Trail,Mormon Pioneer
+340,NE,Nebraska,National Scenic River,Niobrara
+341,NE,Nebraska,National Historic Trail,Oregon
+342,NE,Nebraska,National Historic Trail,Pony Express
+343,NE,Nebraska,National Monument,Scotts Bluff
+344,NV,Nevada,National Historic Trail,California
+345,NV,Nevada,National Park,Death Valley
+346,NV,Nevada,National Park,Great Basin
+347,NV,Nevada,National Recreation Area,Lake Mead
+348,NV,Nevada,National Historic Trail,Old Spanish
+349,NV,Nevada,National Historic Trail,Pony Express
+350,NV,Nevada,National Monument,Tule Springs Fossil Beds
+351,NH,New Hampshire,National Scenic Trail,Appalachian
+352,NH,New Hampshire,National Historical Park,Saint-Gaudens
+353,NJ,New Jersey,National Scenic Trail,Appalachian
+354,NJ,New Jersey,National Recreation Area,Delaware Water Gap
+355,NJ,New Jersey,Part of Statue of Liberty National Monument,Ellis Island
+356,NJ,New Jersey,National Recreation Area,Gateway
+357,NJ,New Jersey,,Great Egg Harbor River
+358,NJ,New Jersey,National Wild and Scenic River,Lower Delaware
+359,NJ,New Jersey,National Historical Park,Morristown
+360,NJ,New Jersey,National Reserve,New Jersey Pinelands
+361,NJ,New Jersey,National Historical Park,Paterson Great Falls
+362,NJ,New Jersey,National Historical Park,Thomas Edison
+363,NJ,New Jersey,National Historic Trail,Washington-Rochambeau Revolutionary Route
+364,NM,New Mexico,National Monument,Aztec Ruins
+365,NM,New Mexico,National Monument,Bandelier
+366,NM,New Mexico,National Monument,Capulin Volcano
+367,NM,New Mexico,National Park,Carlsbad Caverns
+368,NM,New Mexico,National Historical Park,Chaco Culture
+369,NM,New Mexico,National Historic Trail,El Camino Real de Tierra Adentro
+370,NM,New Mexico,National Monument,El Malpais
+371,NM,New Mexico,National Monument,El Morro
+372,NM,New Mexico,National Monument,Fort Union
+373,NM,New Mexico,National Monument,Gila Cliff Dwellings
+374,NM,New Mexico,National Historical Park,Manhattan Project
+375,NM,New Mexico,National Historic Trail,Old Spanish
+376,NM,New Mexico,National Historical Park,Pecos
+377,NM,New Mexico,National Monument,Petroglyph
+378,NM,New Mexico,National Monument,Salinas Pueblo Missions
+379,NM,New Mexico,National Historic Trail,Santa Fe
+380,NM,New Mexico,National Preserve,Valles Caldera
+381,NM,New Mexico,National Park,White Sands
+382,NY,New York,National Monument,African Burial Ground
+383,NY,New York,National Scenic Trail,Appalachian
+384,NY,New York,National Historic Trail,Captain John Smith Chesapeake
+385,NY,New York,National Monument,Castle Clinton
+386,NY,New York,,Chesapeake Bay
+387,NY,New York,National Historic Site,Eleanor Roosevelt
+388,NY,New York,Part of Statue of Liberty National Monument,Ellis Island
+389,NY,New York,National Memorial,Federal Hall
+390,NY,New York,National Seashore,Fire Island
+391,NY,New York,National Monument,Fort Stanwix
+392,NY,New York,National Recreation Area,Gateway
+393,NY,New York,National Memorial,General Grant
+394,NY,New York,National Monument,Governors Island
+395,NY,New York,National Memorial,Hamilton Grange
+396,NY,New York,National Historical Park,Harriet Tubman
+397,NY,New York,National Historic Site,Home Of Franklin D Roosevelt
+398,NY,New York,National Historic Site,Lower East Side Tenement Museum
+399,NY,New York,National Historic Site,Martin Van Buren
+400,NY,New York,,National Parks of New York Harbor
+401,NY,New York,National Scenic Trail,North Country
+402,NY,New York,National Historic Site,Sagamore Hill
+403,NY,New York,National Historic Site,Saint Paul's Church
+404,NY,New York,National Historical Park,Saratoga
+405,NY,New York,National Monument,Statue Of Liberty
+406,NY,New York,National Monument,Stonewall
+407,NY,New York,National Historic Site,Theodore Roosevelt Birthplace
+408,NY,New York,National Historic Site,Theodore Roosevelt Inaugural
+409,NY,New York,National Historic Site,Thomas Cole
+410,NY,New York,Scenic & Recreational River,Upper Delaware
+411,NY,New York,National Historic Site,Vanderbilt Mansion
+412,NY,New York,National Historic Trail,Washington-Rochambeau Revolutionary Route
+413,NY,New York,National Historical Park,Women's Rights
+414,NC,North Carolina,National Scenic Trail,Appalachian
+415,NC,North Carolina,Parkway,Blue Ridge
+416,NC,North Carolina,National Seashore,Cape Hatteras
+417,NC,North Carolina,National Seashore,Cape Lookout
+418,NC,North Carolina,National Historic Site,Carl Sandburg Home
+419,NC,North Carolina,National Historic Site,Fort Raleigh
+420,NC,North Carolina,National Park,Great Smoky Mountains
+421,NC,North Carolina,National Military Park,Guilford Courthouse
+422,NC,North Carolina,National Battlefield,Moores Creek
+423,NC,North Carolina,National Historic Trail,Overmountain Victory
+424,NC,North Carolina,National Historic Trail,Trail Of Tears
+425,NC,North Carolina,National Memorial,Wright Brothers
+426,ND,North Dakota,National Historic Site,Fort Union Trading Post
+427,ND,North Dakota,National Historic Site,Knife River Indian Villages
+428,ND,North Dakota,National Historic Trail,Lewis & Clark
+429,ND,North Dakota,National Scenic Trail,North Country
+430,ND,North Dakota,National Park,Theodore Roosevelt
+431,MP,Northern Mariana Islands,Park,American Memorial
+432,OH,Ohio,National Monument,Charles Young Buffalo Soldiers
+433,OH,Ohio,National Park,Cuyahoga Valley
+434,OH,Ohio,National Historical Park,Dayton Aviation Heritage
+435,OH,Ohio,National Historic Site,First Ladies
+436,OH,Ohio,National Historical Park,Hopewell Culture
+437,OH,Ohio,National Historic Site,James A Garfield
+438,OH,Ohio,National Historic Trail,Lewis & Clark
+439,OH,Ohio,National Scenic Trail,North Country
+440,OH,Ohio,Memorial,Perry's Victory & International Peace
+441,OH,Ohio,National Historic Site,William Howard Taft
+442,OK,Oklahoma,National Recreation Area,Chickasaw
+443,OK,Oklahoma,National Historic Site,Fort Smith
+444,OK,Oklahoma,National Memorial,Oklahoma City
+445,OK,Oklahoma,National Historic Trail,Santa Fe
+446,OK,Oklahoma,National Historic Trail,Trail Of Tears
+447,OK,Oklahoma,National Historic Site,Washita Battlefield
+448,OR,Oregon,National Historic Trail,California
+449,OR,Oregon,National Park,Crater Lake
+450,OR,Oregon,National Historic Site,Fort Vancouver
+451,OR,Oregon,National Geologic Trail,Ice Age Floods
+452,OR,Oregon,National Monument,John Day Fossil Beds
+453,OR,Oregon,National Historic Trail,Lewis & Clark
+454,OR,Oregon,National Historical Park,Lewis and Clark
+455,OR,Oregon,National Historical Park,Nez Perce
+456,OR,Oregon,National Historic Trail,Oregon
+457,OR,Oregon,National Monument & Preserve,Oregon Caves
+458,PA,Pennsylvania,National Historic Site,Allegheny Portage Railroad
+459,PA,Pennsylvania,National Scenic Trail,Appalachian
+460,PA,Pennsylvania,National Historic Trail,Captain John Smith Chesapeake
+461,PA,Pennsylvania,,Chesapeake Bay
+462,PA,Pennsylvania,National Recreation Area,Delaware Water Gap
+463,PA,Pennsylvania,National Historic Site,Edgar Allan Poe
+464,PA,Pennsylvania,National Historic Site,Eisenhower
+465,PA,Pennsylvania,National Historical Park,First State
+466,PA,Pennsylvania,National Memorial,Flight 93
+467,PA,Pennsylvania,National Battlefield,Fort Necessity
+468,PA,Pennsylvania,National Historic Site,Friendship Hill
+469,PA,Pennsylvania,National Military Park,Gettysburg
+470,PA,Pennsylvania,National Historic Site,Gloria Dei Church
+471,PA,Pennsylvania,National Historic Site,Hopewell Furnace
+472,PA,Pennsylvania,National Historical Park,Independence
+473,PA,Pennsylvania,National Memorial,Johnstown Flood
+474,PA,Pennsylvania,National Historic Trail,Lewis & Clark
+475,PA,Pennsylvania,National Wild and Scenic River,Lower Delaware
+476,PA,Pennsylvania,National Scenic Trail,North Country
+477,PA,Pennsylvania,National Scenic Trail,Potomac Heritage
+478,PA,Pennsylvania,National Historic Site,Steamtown
+479,PA,Pennsylvania,National Memorial,Thaddeus Kosciuszko
+480,PA,Pennsylvania,Scenic & Recreational River,Upper Delaware
+481,PA,Pennsylvania,National Historical Park,Valley Forge
+482,PA,Pennsylvania,National Historic Trail,Washington-Rochambeau Revolutionary Route
+483,PR,Puerto Rico,National Historic Site,San Juan
+484,RI,Rhode Island,National Historical Park,Blackstone River Valley
+485,RI,Rhode Island,National Memorial,Roger Williams
+486,RI,Rhode Island,National Historic Site,Touro Synagogue
+487,RI,Rhode Island,National Historic Trail,Washington-Rochambeau Revolutionary Route
+488,SC,South Carolina,National Historic Site,Charles Pinckney
+489,SC,South Carolina,National Park,Congaree
+490,SC,South Carolina,National Battlefield,Cowpens
+491,SC,South Carolina,National Historical Park,Fort Sumter and Fort Moultrie
+492,SC,South Carolina,National Military Park,Kings Mountain
+493,SC,South Carolina,National Historic Site,Ninety Six
+494,SC,South Carolina,National Historic Trail,Overmountain Victory
+495,SC,South Carolina,National Historical Park,Reconstruction Era
+496,SD,South Dakota,National Park,Badlands
+497,SD,South Dakota,National Monument,Jewel Cave
+498,SD,South Dakota,National Historic Trail,Lewis & Clark
+499,SD,South Dakota,National Historic Site,Minuteman Missile
+500,SD,South Dakota,National Recreational River,Missouri
+501,SD,South Dakota,National Memorial,Mount Rushmore
+502,SD,South Dakota,National Park,Wind Cave
+503,TN,Tennessee,National Historic Site,Andrew Johnson
+504,TN,Tennessee,National Scenic Trail,Appalachian
+505,TN,Tennessee,National River & Recreation Area,Big South Fork
+506,TN,Tennessee,National Military Park,Chickamauga & Chattanooga
+507,TN,Tennessee,National Historical Park,Cumberland Gap
+508,TN,Tennessee,National Battlefield,Fort Donelson
+509,TN,Tennessee,National Park,Great Smoky Mountains
+510,TN,Tennessee,National Historical Park,Manhattan Project
+511,TN,Tennessee,Parkway,Natchez Trace
+512,TN,Tennessee,National Scenic Trail,Natchez Trace
+513,TN,Tennessee,Wild & Scenic River,Obed
+514,TN,Tennessee,National Historic Trail,Overmountain Victory
+515,TN,Tennessee,National Military Park,Shiloh
+516,TN,Tennessee,National Battlefield,Stones River
+517,TN,Tennessee,National Historic Trail,Trail Of Tears
+518,TX,Texas,National Monument,Alibates Flint Quarries
+519,TX,Texas,National Recreation Area,Amistad
+520,TX,Texas,National Park,Big Bend
+521,TX,Texas,National Preserve,Big Thicket
+522,TX,Texas,National Memorial,Chamizal
+523,TX,Texas,National Historic Trail,El Camino Real de los Tejas
+524,TX,Texas,National Historic Trail,El Camino Real de Tierra Adentro
+525,TX,Texas,National Historic Site,Fort Davis
+526,TX,Texas,National Park,Guadalupe Mountains
+527,TX,Texas,National Recreation Area,Lake Meredith
+528,TX,Texas,National Historical Park,Lyndon B Johnson
+529,TX,Texas,National Seashore,Padre Island
+530,TX,Texas,National Historical Park,Palo Alto Battlefield
+531,TX,Texas,Wild & Scenic River,Rio Grande
+532,TX,Texas,National Historical Park,San Antonio Missions
+533,TX,Texas,National Monument,Waco Mammoth
+534,UT,Utah,National Park,Arches
+535,UT,Utah,National Park,Bryce Canyon
+536,UT,Utah,National Historic Trail,California
+537,UT,Utah,National Park,Canyonlands
+538,UT,Utah,National Park,Capitol Reef
+539,UT,Utah,National Monument,Cedar Breaks
+540,UT,Utah,National Monument,Dinosaur
+541,UT,Utah,National Recreation Area,Glen Canyon
+542,UT,Utah,National Historical Park,Golden Spike
+543,UT,Utah,National Monument,Hovenweep
+544,UT,Utah,National Historic Trail,Mormon Pioneer
+545,UT,Utah,National Monument,Natural Bridges
+546,UT,Utah,National Historic Trail,Old Spanish
+547,UT,Utah,National Historic Trail,Pony Express
+548,UT,Utah,National Monument,Rainbow Bridge
+549,UT,Utah,National Monument,Timpanogos Cave
+550,UT,Utah,National Park,Zion
+551,VT,Vermont,National Scenic Trail,Appalachian
+552,VT,Vermont,National Historical Park,Marsh - Billings - Rockefeller
+553,VT,Vermont,National Scenic Trail,North Country
+554,VI,Virgin Islands,National Monument,Buck Island Reef
+555,VI,Virgin Islands,National Historic Site,Christiansted
+556,VI,Virgin Islands,National Historical Park and Ecological Preserve,Salt River Bay
+557,VI,Virgin Islands,National Park,Virgin Islands
+558,VI,Virgin Islands,National Monument,Virgin Islands Coral Reef
+559,VA,Virginia,National Scenic Trail,Appalachian
+560,VA,Virginia,National Historical Park,Appomattox Court House
+561,VA,Virginia,,"Arlington House, The Robert  E. Lee Memorial"
+562,VA,Virginia,National Seashore,Assateague Island
+563,VA,Virginia,Parkway,Blue Ridge
+564,VA,Virginia,National Monument,Booker T Washington
+565,VA,Virginia,Part of Colonial National Historical Park,Cape Henry Memorial
+566,VA,Virginia,National Historic Trail,Captain John Smith Chesapeake
+567,VA,Virginia,National Historical Park,Cedar Creek & Belle Grove
+568,VA,Virginia,,Chesapeake Bay
+569,VA,Virginia,,Civil War Defenses of Washington
+570,VA,Virginia,National Historical Park,Colonial
+571,VA,Virginia,National Historical Park,Cumberland Gap
+572,VA,Virginia,National Monument,Fort Monroe
+573,VA,Virginia,National Military Park,Fredericksburg & Spotsylvania
+574,VA,Virginia,Memorial Parkway,George Washington
+575,VA,Virginia,National Monument,George Washington Birthplace
+576,VA,Virginia,Park,Great Falls
+577,VA,Virginia,,Green Springs
+578,VA,Virginia,National Historical Park,Harpers Ferry
+579,VA,Virginia,Part of Colonial National Historical Park,Historic Jamestowne
+580,VA,Virginia,National Historic Site,Maggie L Walker
+581,VA,Virginia,National Battlefield Park,Manassas
+582,VA,Virginia,National Historic Trail,Overmountain Victory
+583,VA,Virginia,National Battlefield,Petersburg
+584,VA,Virginia,National Scenic Trail,Potomac Heritage
+585,VA,Virginia,Park,Prince William Forest
+586,VA,Virginia,National Battlefield Park,Richmond
+587,VA,Virginia,National Park,Shenandoah
+588,VA,Virginia,National Historic Trail,Star-Spangled Banner
+589,VA,Virginia,National Historic Trail,Washington-Rochambeau Revolutionary Route
+590,VA,Virginia,,Wolf Trap National Park for the Performing Arts
+591,VA,Virginia,Part of Colonial National Historical Park,Yorktown Battlefield
+592,WA,Washington,National Historical Reserve,Ebey's Landing
+593,WA,Washington,National Historic Site,Fort Vancouver
+594,WA,Washington,National Geologic Trail,Ice Age Floods
+595,WA,Washington,National Historical Park,Klondike Gold Rush - Seattle Unit
+596,WA,Washington,National Recreation Area,Lake Roosevelt
+597,WA,Washington,National Historic Trail,Lewis & Clark
+598,WA,Washington,National Historical Park,Lewis and Clark
+599,WA,Washington,National Historical Park,Manhattan Project
+600,WA,Washington,National Historic Site,Minidoka
+601,WA,Washington,National Park,Mount Rainier
+602,WA,Washington,National Historical Park,Nez Perce
+603,WA,Washington,National Park,North Cascades
+604,WA,Washington,National Park,Olympic
+605,WA,Washington,National Historic Trail,Oregon
+606,WA,Washington,National Historical Park,San Juan Island
+607,WA,Washington,National Historic Site,Whitman Mission
+608,WA,Washington,Affiliated Area,Wing Luke Museum
+609,WV,West Virginia,National Scenic Trail,Appalachian
+610,WV,West Virginia,National Scenic River,Bluestone
+611,WV,West Virginia,National Historical Park,Chesapeake & Ohio Canal
+612,WV,West Virginia,,Chesapeake Bay
+613,WV,West Virginia,National Recreation Area,Gauley River
+614,WV,West Virginia,National Historical Park,Harpers Ferry
+615,WV,West Virginia,National Historic Trail,Lewis & Clark
+616,WV,West Virginia,National Park and Preserve,New River Gorge
+617,WI,Wisconsin,National Lakeshore,Apostle Islands
+618,WI,Wisconsin,National Scenic Trail,Ice Age
+619,WI,Wisconsin,National Scenic Trail,North Country
+620,WI,Wisconsin,National Scenic Riverway,Saint Croix
+621,WY,Wyoming,National Recreation Area,Bighorn Canyon
+622,WY,Wyoming,National Historic Trail,California
+623,WY,Wyoming,National Monument,Devils Tower
+624,WY,Wyoming,National Historic Site,Fort Laramie
+625,WY,Wyoming,National Monument,Fossil Butte
+626,WY,Wyoming,National Park,Grand Teton
+627,WY,Wyoming,National Historic Trail,Mormon Pioneer
+628,WY,Wyoming,National Historic Trail,Oregon
+629,WY,Wyoming,National Historic Trail,Pony Express
+630,WY,Wyoming,National Park,Yellowstone
